@@ -1,0 +1,6 @@
+to build the projects
+=====================
+- go to build under the project
+- run the following command "cmake .."
+- run "make"
+- "myExec" is the main program and "testRunner" is the test code
